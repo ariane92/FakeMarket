@@ -2,27 +2,27 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Máscara Preta",
+      "image_url": "https://http2.mlstatic.com/kit-2-mascaras-de-proteco-tecido-neoprene-lavavel-ninja-D_NQ_NP_877943-MLB41668573853_052020-F.webp",
+      "price": 5
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Máscara Descartável",
+      "image_url": "https://http2.mlstatic.com/mascara-descartavel-tripla-camada-com-clip-nasal-50-unidades-D_NQ_NP_763195-MLB41992073354_052020-F.webp",
+      "price": 3
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Álcool Gel",
+      "image_url": "https://bisturi.com.br/12262-large_default/coperalcool-alcool-gel-400g.jpg",
+      "price": 16.9
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Sabonete Protex",
+      "image_url": "https://sj-img.azureedge.net/product/6248-sabonete-protex-90g-suave-g.jpg",
+      "price": 2.69
     }
   ]
 }
