@@ -6,7 +6,7 @@ Aplicação que simula um marketplace para produtos de prevenção ao covid-19, 
 
 ## :interrobang: Motivo
 
-Possuí objetivo didático 
+Aplicar conteúdos estudados.
 
 
 ## :rocket: Tecnologias Utilizadas 
@@ -34,7 +34,7 @@ Possuí objetivo didático
 
     # Iniciar o projeto
     $ yarn start
-    $ yarn react-native run-android
+    $ yarn react-native run-android ou yarn react-native run-ios
    
     # Executar testes
     $ yarn test
