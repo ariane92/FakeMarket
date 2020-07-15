@@ -2,7 +2,7 @@
 
 ## :information_source: Sobre
 
-Aplicação que simula um marketplace para produtos de prevenção ao covid-19, utilizando uma Fake API.
+Aplicação simples que simula um marketplace para produtos de prevenção ao Covid-19, utilizando uma Fake API.
 
 ## :interrobang: Motivo
 
@@ -42,6 +42,9 @@ Aplicar conteúdos estudados.
     # Executar build
     $ yarn build
 ```
+## 📸 Screens
+
+![screenshot](https://github.com/ariane92/FakeMarket/blob/master/screens.jpg)
 
 ###### Projeto com objetivo didático
 ###### 🚀 Bootcamp Rocketseat 
