@@ -1,26 +1,49 @@
 <h2 align="center"> 🛒 FakeMarket</h2>
 
-___
-
-<h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;  
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
-</h3>
-
-___
 ## :information_source: Sobre
 
-Aplicativo de marketplace para produtos de covid-19, utilizando uma api falsa
+Aplicação que simula um marketplace para produtos de prevenção ao covid-19, utilizando uma Fake API.
 
 ## :interrobang: Motivo
 
-tem objetivo didático
+Possuí objetivo didático 
 
 
 ## :rocket: Tecnologias Utilizadas 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+- [ReactNative](https://github.com/facebook/react-native)
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [AsyncStorage](https://github.com/react-native-community/async-storage)
+- [styled-components](https://github.com/styled-components/styled-components)
+- [ESLint](https://github.com/eslint/eslint)
+- [Prettier](https://github.com/prettier/prettier)
 
-- ReactNative
+<br/>
+
+## :gear: Como executar
+
+
+```bash
+
+
+    # instalar as dependências
+    $ yarn
+    
+    # Executar a api
+    $ yarn json-server server.json -p 3333
+
+    # Iniciar o projeto
+    $ yarn start
+    $ yarn react-native run-android
+   
+    # Executar testes
+    $ yarn test
+    
+    # Executar build
+    $ yarn build
+```
+
+###### Projeto com objetivo didático
+###### 🚀 Bootcamp Rocketseat 
+
 
